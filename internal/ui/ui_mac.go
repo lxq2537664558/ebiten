@@ -47,7 +47,7 @@ import (
 
 	"github.com/go-gl/glfw/v3.2/glfw"
 
-	"github.com/hajimehoshi/ebiten/internal/graphicscommand"
+	"github.com/hajimehoshi/ebiten/v2/internal/graphicscommand"
 )
 
 func glfwScale() float64 {
